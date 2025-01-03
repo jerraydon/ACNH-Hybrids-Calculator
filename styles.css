@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
 
 body {
-  font-family: 'Parkinsans'
+  font-family: 'Parkinsans';
+}
+
+header {
+  background-color: blue;
 }
