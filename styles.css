@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  width: 100%;
   background-color: blue;
   text-align: center;
 }
